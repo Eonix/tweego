@@ -15,8 +15,7 @@
 # Documentation
 *.html
 
-# Dependencies
-go.sum
+# Dependency checksums are tracked in go.sum
 
 # Builds & distribution
 dist/

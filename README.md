@@ -10,6 +10,10 @@ If you believe that you've found a bug in Tweego or simply wish to make a sugges
 
 You may either download one of the precompiled binaries from [Tweego's website](http://www.motoslave.net/tweego/), which are available in both 32- and 64-bit versions for multiple operating systems, or build Tweego from source—see **BUILDING FROM SOURCE** below.
 
+## CONTAINER BUILD (RECOMMENDED)
+
+Build native Windows, Linux, or macOS executables using Docker Desktop, without installing Go locally. See [CONTAINER-BUILD.md](CONTAINER-BUILD.md) for commands and requirements.
+
 ## BUILDING FROM SOURCE
 
 If you want to build Tweego from scratch, rather than grabbing one of the precompiled binaries off of its website, then these instructions are for you.

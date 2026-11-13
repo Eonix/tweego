@@ -1,0 +1,7 @@
+.git
+.github
+dist
+storyformats
+docs
+*.exe
+*.log
